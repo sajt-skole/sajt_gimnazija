@@ -144,7 +144,7 @@ textarea {
 	z-index: 99;
 	position: relative;
 	margin-top: 10px;
-	background-color: #ffffcc;
+	background-color: white;
 	margin-top: -6px;
 	
 }
@@ -192,13 +192,6 @@ textarea {
 	text-decoration: underline;
 }
 */
-#body{
-	background-image: url(../img/gmiloje.jpg);
-	height: 500px;
-	width: 1000px;
-	background-repeat: no-repeat;
-	margin-top: -17px;
-}
 #down{
 	text-align: center;
 	background-color: #e6ffff;
@@ -220,7 +213,7 @@ textarea {
 }
 #collapsibleNavbar{
 	text-align: center;
-	background-color: #ffffcc;
+	
 
 }
 #collapsibleNavbar a:hover,

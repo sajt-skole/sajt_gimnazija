@@ -16,7 +16,7 @@
 			<a href="index.html" id="logo" title="Gimnazija Miloje Dobrašinović">Gimnazija Miloje Dobrašinović</a>
 			<!--
 			<div class="menu-trigger"></div>	-->
-			<nav class=" container-fluid navbar navbar-expand-md bg-dark navbar-dark">
+			<nav class=" container-fluid navbar navbar-expand-md bg-light navbar-light">
 
   <!-- Brand -->
   <a class="navbar-brand" href="#"></a>
